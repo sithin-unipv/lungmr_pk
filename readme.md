@@ -1,7 +1,12 @@
 # Non-Invasive Programmed Death-Ligand (PD-L1) Stratification in Non-Small Cell Lung Cancer using Dynamic Contrast-Enhanced MRI (DCE-MRI)
 
-Original repository supporting the article submitted to European Radiology (@Citation TBA)
+Original repository supporting the article submitted to European Radiology
 
+If you use this codebase for your research, please cite our paper:
+```bibtex
+Messana, G., Bortolotto, C., Thulasi Seetha, S. et al. Non-invasive PD-L1 stratification in non-small cell lung cancer using dynamic contrast-enhanced MRI.
+Eur Radiol (2025). https://doi.org/10.1007/s00330-025-11524-1
+```
 ### **Repository structure**
 #### **Overview:**
 
